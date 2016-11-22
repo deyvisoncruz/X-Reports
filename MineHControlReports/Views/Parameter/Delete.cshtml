@@ -1,0 +1,48 @@
+﻿@model MineHControlReports.Models.parameter
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Remover Parâmetro</h2>
+
+<h3>Tem certeza que deseja remover este Parâmetro?</h3>
+<fieldset>
+    <legend>parameter</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Name)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Name)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Descr)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Descr)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Value)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Value)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Token)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Token)
+    </div>
+</fieldset>
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    <p>
+        <input type="submit" value="Remover" /> |
+        @Html.ActionLink("Voltar", "Index")
+    </p>
+}

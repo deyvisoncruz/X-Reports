@@ -1,0 +1,39 @@
+﻿@model MineHControlReports.Models.menuRole
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Detalhes</h2>
+
+<fieldset>
+    <legend>menuRole</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.MenuId)
+    </div>
+    <div class="display-field">
+         @{
+             string parameterValue = Model.MenuGet();
+              }
+        @Html.DisplayFor(model => parameterValue)
+    </div>
+
+    <div class="display-label">
+
+         @Html.DisplayNameFor(model => model.RoleId)
+    </div>
+    <div class="display-field">
+         
+         @{
+             string parameterValue2 = Model.RoleGet();
+              }
+       
+        @Html.DisplayFor(model => parameterValue2)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id=Model.Id }) |
+    @Html.ActionLink("Voltar", "Index")
+</p>

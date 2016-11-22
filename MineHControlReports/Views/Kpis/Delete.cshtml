@@ -1,0 +1,48 @@
+﻿@model MineHControlReports.Models.kpis
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Remover Kpi</h2>
+
+<h3>Tem certeza que deseja remover este Kpi?</h3>
+<fieldset>
+    <legend>kpis</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Name)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Name)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Descr)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Descr)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Unity)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Unity)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Token)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Token)
+    </div>
+</fieldset>
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    <p>
+        <input type="submit" value="Remover" /> |
+        @Html.ActionLink("Voltar", "Index")
+    </p>
+}

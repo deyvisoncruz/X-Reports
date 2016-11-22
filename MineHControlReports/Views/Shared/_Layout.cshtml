@@ -1,0 +1,139 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>Fast2Mine - Reports</title>
+        <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        <meta name="viewport" content="width=device-width" />
+        
+        @Styles.Render("~/Content/css")
+        <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+        <link href="~/Content/DataTables/css/jquery.dataTables.min.css" rel="stylesheet" />
+
+        @Scripts.Render("~/bundles/modernizr")
+    </head>
+    <body>
+        <header>
+            <div class="content-wrapper">
+                <div class="float-left">
+                    <p class="site-title">@Html.ActionLink("your logo here", "Index", "Home")</p>
+                </div>
+                <div class="float-right">
+                    <section id="login">
+                        @Html.Partial("_LoginPartial")
+                    </section>
+                    <nav  class="navbar navbar-inverse">
+                        <ul id="menu" class="nav nav-pills">
+                            <li>@Html.ActionLink("Menus", "Index", "Menu")</li>
+                            <li>@Html.ActionLink("Permissões", "Index", "MenuRole")</li>
+                            <li>@Html.ActionLink("Perfis", "Index", "Role")</li>
+                            <li>@Html.ActionLink("Usuários", "Index", "User")</li>
+                            <li>@Html.ActionLink("Relatórios", "Index", "MenuReport")</li>
+                            <li>@Html.ActionLink("Parametros", "Index", "Parameter")</li>
+                            <li>@Html.ActionLink("Kpis", "Index", "Kpis")</li>
+                            <li>@Html.ActionLink("Metas", "Index", "Goal")</li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+
+        </header>
+ <div id="body">
+<nav class="navbar navbar-default">
+    <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">Reports</a>
+        </div>
+
+   
+      
+        <ul class="nav navbar-nav navbar-right">
+                   
+            @{Html.RenderAction("MenuList", "Home");}
+            
+        </ul>       
+    </div><!-- /.container-fluid -->
+</nav>
+
+    @RenderSection("featured", required: false)
+    <section class="content-wrapper main-content clear-fix">
+        @RenderBody()
+    </section>
+</div>
+        <footer>
+            <div class="content-wrapper">
+                <div class="float-left">
+                    <p>&copy; @DateTime.Now.Year - Fast2Mine</p>
+                </div>
+            </div>
+        </footer>
+
+        @Scripts.Render("~/bundles/jquery")
+        <script src="~/Scripts/bootstrap.min.js"></script>
+        <script src="~/Scripts/DataTables/jquery.dataTables.min.js"></script>
+        <script type="text/javascript">
+            $(function() {
+                $('.datepicker').datepicker({
+                    changeMonth: true,
+                    changeYear: true,
+                    dateFormat: "dd/mm/yy"
+                });
+
+               
+                });
+
+       
+           
+            
+
+        </script>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                jQuery.event.handle = jQuery.event.dispatch;
+            
+
+
+
+                $('#myTable').DataTable({
+                    "scrollY": "200px",
+                    "scrollCollapse": true,
+                    "paging": false,
+                    "language":
+                        {
+                            "sEmptyTable": "Nenhum registro encontrado",
+                            "sInfo": "Mostrando de _START_ até _END_ de _TOTAL_ registros",
+                            "sInfoEmpty": "Mostrando 0 até 0 de 0 registros",
+                            "sInfoFiltered": "(Filtrados de _MAX_ registros)",
+                            "sInfoPostFix": "",
+                            "sInfoThousands": ".",
+                            "sLengthMenu": "_MENU_ resultados por página",
+                            "sLoadingRecords": "Carregando...",
+                            "sProcessing": "Processando...",
+                            "sZeroRecords": "Nenhum registro encontrado",
+                            "sSearch": "Pesquisar",
+                            "oPaginate": {
+                                "sNext": "Próximo",
+                                "sPrevious": "Anterior",
+                                "sFirst": "Primeiro",
+                                "sLast": "Último"
+                            },
+                            "oAria": {
+                                "sSortAscending": ": Ordenar colunas de forma ascendente",
+                                "sSortDescending": ": Ordenar colunas de forma descendente"
+                            }
+                        }
+                });
+
+            });
+
+        </script>
+        @RenderSection("scripts", required: false)
+    </body>
+</html>

@@ -1,0 +1,111 @@
+CREATE TABLE `kpis` (
+  `Id` int(11) NOT NULL AUTO_INCREMENT,
+  `Name` varchar(45) DEFAULT NULL,
+  `Descr` varchar(45) DEFAULT NULL,
+  `Token` varchar(45) DEFAULT NULL,
+  `Unity` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`Id`)
+) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=utf8;
+
+
+CREATE TABLE `menu` (
+  `Id` int(11) NOT NULL AUTO_INCREMENT,
+  `Name` varchar(45) DEFAULT NULL,
+  `Link` varchar(45) DEFAULT NULL,
+  `OrderBy` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`Id`)
+) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8;
+
+CREATE TABLE `menureport` (
+  `Id` int(11) NOT NULL AUTO_INCREMENT,
+  `Name` varchar(45) NOT NULL,
+  `MenuId` int(11) NOT NULL,
+  `TypeReport` int(11) NOT NULL,
+  `Link` varchar(45) NOT NULL,
+  `OrderBy` varchar(45) NOT NULL,
+  PRIMARY KEY (`Id`,`Name`),
+  KEY `MenuRefId_idx` (`MenuId`),
+  CONSTRAINT `MenuRefId` FOREIGN KEY (`MenuId`) REFERENCES `menu` (`Id`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8;
+
+
+CREATE TABLE `goal` (
+  `Id` int(11) NOT NULL AUTO_INCREMENT,
+  `KpiId` int(11) NOT NULL,
+  `PeriodId` int(11) NOT NULL,
+  `TypeEntity` int(11) NOT NULL,
+  `EntityId` int(11) NOT NULL,
+  `StartDate` datetime NOT NULL,
+  PRIMARY KEY (`Id`),
+  KEY `KpiId_idx` (`KpiId`),
+  KEY `PeriodId_idx` (`PeriodId`),
+  CONSTRAINT `KpiId` FOREIGN KEY (`KpiId`) REFERENCES `kpis` (`Id`) ON DELETE NO ACTION ON UPDATE NO ACTION,
+  CONSTRAINT `PeriodId` FOREIGN KEY (`PeriodId`) REFERENCES `period` (`Id`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;
+
+
+
+CREATE TABLE `menurole` (
+  `Id` int(11) NOT NULL AUTO_INCREMENT,
+  `MenuId` int(11) DEFAULT NULL,
+  `RoleId` int(11) DEFAULT NULL,
+  PRIMARY KEY (`Id`),
+  KEY `MenuRefId_idx` (`MenuId`),
+  KEY `RoleRefId_idx` (`RoleId`),
+  CONSTRAINT `MenuId` FOREIGN KEY (`MenuId`) REFERENCES `menu` (`Id`) ON DELETE NO ACTION ON UPDATE NO ACTION,
+  CONSTRAINT `RoleId` FOREIGN KEY (`RoleId`) REFERENCES `role` (`Id`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8;
+
+
+CREATE TABLE `parameter` (
+  `Id` int(11) NOT NULL AUTO_INCREMENT,
+  `Name` varchar(45) DEFAULT NULL,
+  `Descr` varchar(255) DEFAULT NULL,
+  `Token` varchar(45) DEFAULT NULL,
+  `Value` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`Id`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8;
+
+
+CREATE TABLE `role` (
+  `Id` int(11) NOT NULL AUTO_INCREMENT,
+  `Name` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`Id`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8;
+
+
+CREATE TABLE `user` (
+  `Id` int(11) NOT NULL AUTO_INCREMENT,
+  `Name` varchar(45) NOT NULL,
+  `Login` varchar(45) NOT NULL,
+  `Password` varchar(255) NOT NULL,
+  `ConfirmPassword` varchar(255) NOT NULL,
+  `RoleId` int(11) NOT NULL,
+  PRIMARY KEY (`Id`),
+  KEY `UserRoleId_idx` (`RoleId`),
+  CONSTRAINT `UserRoleId` FOREIGN KEY (`RoleId`) REFERENCES `role` (`Id`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8;
+
+
+
+
+CREATE TABLE `menureport` (
+  `Id` int(11) NOT NULL AUTO_INCREMENT,
+  `Name` varchar(45) NOT NULL,
+  `MenuId` int(11) NOT NULL,
+  `TypeReport` int(11) NOT NULL,
+  `Link` varchar(45) NOT NULL,
+  `OrderBy` varchar(45) NOT NULL,
+  PRIMARY KEY (`Id`,`Name`),
+  KEY `MenuRefId_idx` (`MenuId`),
+  CONSTRAINT `MenuRefId` FOREIGN KEY (`MenuId`) REFERENCES `menu` (`Id`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8;
+
+
+CREATE TABLE `period` (
+  `Id` int(11) NOT NULL AUTO_INCREMENT,
+  `Name` varchar(45) DEFAULT NULL,
+  `Token` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`Id`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8;
+

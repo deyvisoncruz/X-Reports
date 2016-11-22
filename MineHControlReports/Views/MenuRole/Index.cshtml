@@ -1,0 +1,51 @@
+﻿@model IEnumerable<MineHControlReports.Models.menuRole>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Menus por Perfil</h2>
+
+<p>
+    @Html.ActionLink("Habilitar novo Menu para Perfil", "Create")
+</p>
+
+<table id="myTable" class="display">
+    <thead>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.MenuId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RoleId)
+        </th>
+        <th></th>
+    </tr>
+    
+</thead>
+    <tbody>
+@foreach (var item in Model) {
+    <tr>
+        <td>
+             @{
+    string parameterValue = item.MenuGet();
+              }
+             @Html.DisplayFor(modelItem => parameterValue )           
+        </td>
+         @{
+    string parameterValue2 = item.RoleGet();
+              }
+        <td>
+            @Html.DisplayFor(modelItem => parameterValue2)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Detalhes", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Remover", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</tbody>
+</table>

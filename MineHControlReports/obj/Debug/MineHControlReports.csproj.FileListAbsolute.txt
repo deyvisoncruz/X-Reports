@@ -1,0 +1,408 @@
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\hibernate.cfg.xml
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\MineHControlReports.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\MineHControlReports.pdb
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\Antlr3.Runtime.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.AspNet.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.Core.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.OAuth.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.OpenId.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\EntityFramework.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\EntityFramework.SqlServer.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\Iesi.Collections.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\Microsoft.Data.Edm.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\Microsoft.Data.OData.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\Microsoft.Web.Infrastructure.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\MySql.Data.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\mysql.data.entity.EF6.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\MySql.Web.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\Newtonsoft.Json.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\NHibernate.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\nunit.framework.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\System.Net.Http.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\System.Net.Http.Formatting.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\System.Net.Http.WebRequest.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\System.Spatial.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\System.Web.Helpers.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\System.Web.Http.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\System.Web.Http.OData.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\System.Web.Http.WebHost.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\System.Web.Mvc.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\System.Web.Optimization.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\System.Web.Razor.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\System.Web.WebPages.Deployment.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\System.Web.WebPages.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\System.Web.WebPages.Razor.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\WebGrease.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\WebMatrix.Data.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\WebMatrix.WebData.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\EntityFramework.xml
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\EntityFramework.SqlServer.xml
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\Iesi.Collections.xml
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\NHibernate.xml
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\nunit.framework.xml
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\Newtonsoft.Json.xml
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\System.Net.Http.xml
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\System.Net.Http.Formatting.xml
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\System.Net.Http.WebRequest.xml
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\System.Web.Helpers.xml
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\System.Web.Http.xml
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\System.Web.Http.WebHost.xml
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\System.Web.Mvc.xml
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\System.Web.Razor.xml
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\System.Web.WebPages.xml
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\System.Web.WebPages.Deployment.xml
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\System.Web.WebPages.Razor.xml
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\WebMatrix.Data.xml
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\WebMatrix.WebData.xml
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.AspNet.xml
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.Core.xml
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.OAuth.xml
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.OpenId.xml
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\System.Web.Http.OData.xml
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\Microsoft.Data.Edm.xml
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\Microsoft.Data.OData.xml
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\System.Spatial.xml
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\de\Microsoft.Data.Edm.resources.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\es\Microsoft.Data.Edm.resources.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\fr\Microsoft.Data.Edm.resources.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\it\Microsoft.Data.Edm.resources.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\ja\Microsoft.Data.Edm.resources.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\ko\Microsoft.Data.Edm.resources.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\ru\Microsoft.Data.Edm.resources.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\de\Microsoft.Data.OData.resources.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\es\Microsoft.Data.OData.resources.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\fr\Microsoft.Data.OData.resources.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\it\Microsoft.Data.OData.resources.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\ja\Microsoft.Data.OData.resources.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\ko\Microsoft.Data.OData.resources.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\ru\Microsoft.Data.OData.resources.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\de\System.Spatial.resources.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\es\System.Spatial.resources.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\fr\System.Spatial.resources.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\it\System.Spatial.resources.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\ja\System.Spatial.resources.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\ko\System.Spatial.resources.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\ru\System.Spatial.resources.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\zh-Hans\System.Spatial.resources.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\bin\zh-Hant\System.Spatial.resources.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\obj\Debug\MineHControlReports.dll
+c:\users\deyvison\documents\visual studio 2012\Projects\MineHControlReports\MineHControlReports\obj\Debug\MineHControlReports.pdb
+C:\Users\deyvison\Documents\Visual Studio 2012\Projects\MineHControlReports\MineHControlReports\obj\Debug\MineHControlReports.csprojResolveAssemblyReference.cache
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\hibernate.cfg.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\MineHControlReports.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\MineHControlReports.pdb
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\Antlr3.Runtime.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.Core.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\EntityFramework.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\EntityFramework.SqlServer.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\Iesi.Collections.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\Microsoft.Data.Edm.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\Microsoft.Data.OData.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\MySql.Data.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\mysql.data.entity.EF6.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\MySql.Web.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\Newtonsoft.Json.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\NHibernate.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\nunit.framework.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\System.Net.Http.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\System.Net.Http.Formatting.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\System.Net.Http.WebRequest.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\System.Spatial.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\System.Web.Helpers.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\System.Web.Http.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\System.Web.Http.OData.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\System.Web.Http.WebHost.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\System.Web.Mvc.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\System.Web.Optimization.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\System.Web.Razor.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\System.Web.WebPages.Deployment.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\System.Web.WebPages.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\System.Web.WebPages.Razor.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\WebGrease.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\WebMatrix.Data.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\WebMatrix.WebData.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\EntityFramework.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\EntityFramework.SqlServer.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\Iesi.Collections.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\NHibernate.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\nunit.framework.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\Newtonsoft.Json.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\System.Net.Http.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\System.Net.Http.Formatting.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\System.Net.Http.WebRequest.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\System.Web.Helpers.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\System.Web.Http.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\System.Web.Http.WebHost.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\System.Web.Mvc.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\System.Web.Razor.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\System.Web.WebPages.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\System.Web.WebPages.Deployment.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\System.Web.WebPages.Razor.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\WebMatrix.Data.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.Core.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\System.Web.Http.OData.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\Microsoft.Data.Edm.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\Microsoft.Data.OData.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\System.Spatial.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\WebMatrix.WebData.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\de\System.Spatial.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\es\System.Spatial.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\fr\System.Spatial.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\it\System.Spatial.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\ja\System.Spatial.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\ko\System.Spatial.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\ru\System.Spatial.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\obj\Debug\MineHControlReports.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\obj\Debug\MineHControlReports.pdb
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\MineHControlReports\obj\Debug\MineHControlReports.csprojResolveAssemblyReference.cache
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\hibernate.cfg.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\MineHControlReports.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\MineHControlReports.pdb
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\Antlr3.Runtime.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\CryptSharp.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\DotNetOpenAuth.Core.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\EntityFramework.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\EntityFramework.SqlServer.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\Iesi.Collections.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\Microsoft.Data.Edm.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\Microsoft.Data.OData.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\MySql.Data.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\mysql.data.entity.EF6.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\MySql.Web.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\Newtonsoft.Json.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\NHibernate.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\nunit.framework.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\System.Net.Http.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\System.Net.Http.Formatting.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\System.Net.Http.WebRequest.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\System.Spatial.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\System.Web.Helpers.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\System.Web.Http.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\System.Web.Http.OData.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\System.Web.Http.WebHost.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\System.Web.Mvc.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\System.Web.Optimization.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\System.Web.Razor.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\System.Web.WebPages.Deployment.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\System.Web.WebPages.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\System.Web.WebPages.Razor.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\WebGrease.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\WebMatrix.Data.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\WebMatrix.WebData.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\CryptSharp.pdb
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\CryptSharp.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\EntityFramework.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\EntityFramework.SqlServer.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\Iesi.Collections.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\NHibernate.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\nunit.framework.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\Newtonsoft.Json.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\System.Net.Http.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\System.Net.Http.Formatting.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\System.Net.Http.WebRequest.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\System.Web.Helpers.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\System.Web.Http.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\System.Web.Http.WebHost.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\System.Web.Mvc.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\System.Web.Razor.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\System.Web.WebPages.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\System.Web.WebPages.Deployment.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\System.Web.WebPages.Razor.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\WebMatrix.Data.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\DotNetOpenAuth.Core.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\System.Web.Http.OData.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\Microsoft.Data.Edm.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\Microsoft.Data.OData.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\System.Spatial.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\WebMatrix.WebData.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\de\System.Spatial.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\es\System.Spatial.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\fr\System.Spatial.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\it\System.Spatial.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\ja\System.Spatial.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\ko\System.Spatial.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\ru\System.Spatial.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\obj\Debug\MineHControlReports.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports- versaoerrada\MineHControlReports\obj\Debug\MineHControlReports.pdb
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\hibernate.cfg.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\MineHControlReports.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\MineHControlReports.pdb
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\Antlr3.Runtime.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\CryptSharp.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.Core.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\EntityFramework.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\EntityFramework.SqlServer.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\Iesi.Collections.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\Microsoft.Data.Edm.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\Microsoft.Data.OData.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\MySql.Data.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\mysql.data.entity.EF6.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\MySql.Web.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\Newtonsoft.Json.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\NHibernate.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\nunit.framework.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\System.Net.Http.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\System.Net.Http.Formatting.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\System.Net.Http.WebRequest.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\System.Spatial.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\System.Web.Helpers.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\System.Web.Http.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\System.Web.Http.OData.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\System.Web.Http.WebHost.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\System.Web.Mvc.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\System.Web.Optimization.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\System.Web.Razor.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\System.Web.WebPages.Deployment.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\System.Web.WebPages.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\System.Web.WebPages.Razor.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\WebGrease.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\WebMatrix.Data.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\WebMatrix.WebData.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\CryptSharp.pdb
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\CryptSharp.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\EntityFramework.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\EntityFramework.SqlServer.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\Iesi.Collections.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\NHibernate.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\nunit.framework.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\Newtonsoft.Json.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\System.Net.Http.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\System.Net.Http.Formatting.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\System.Net.Http.WebRequest.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\System.Web.Helpers.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\System.Web.Http.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\System.Web.Http.WebHost.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\System.Web.Mvc.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\System.Web.Razor.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\System.Web.WebPages.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\System.Web.WebPages.Deployment.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\System.Web.WebPages.Razor.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\WebMatrix.Data.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.Core.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\System.Web.Http.OData.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\Microsoft.Data.Edm.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\Microsoft.Data.OData.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\System.Spatial.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\WebMatrix.WebData.xml
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\de\System.Spatial.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\es\System.Spatial.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\fr\System.Spatial.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\it\System.Spatial.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\ja\System.Spatial.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\ko\System.Spatial.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\ru\System.Spatial.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\obj\Debug\MineHControlReports.dll
+C:\Users\deyvison\Documents\GitHub\MineHControlReports\MineHControlReports\obj\Debug\MineHControlReports.pdb

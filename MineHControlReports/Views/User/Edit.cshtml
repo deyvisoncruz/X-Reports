@@ -1,0 +1,75 @@
+﻿@model MineHControlReports.Models.user
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Editar Usuário</h2>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>user</legend>
+
+        @Html.HiddenFor(model => model.Id)
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Name)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Name)
+            @Html.ValidationMessageFor(model => model.Name)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Login)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Login)
+            @Html.ValidationMessageFor(model => model.Login)
+             @ViewBag.Error
+        </div>
+
+        <div class="editor-label">
+            <label for="Password">Senha</label>
+        </div>
+        <div class="editor-field">
+              @{
+    string parameterValue = Model.ConfirmPassword;
+              }
+            <input class="text-box single-line password" data-val="true" data-val-required="The Senha field is required." id="Password" name="Password" value="@parameterValue" type="password">
+            <span class="field-validation-valid" data-valmsg-for="Password" data-valmsg-replace="true"></span>
+        </div>
+
+        <div class="editor-label">
+            <label for="ConfirmPassword">Confirmar Senha</label>
+        </div>
+        <div class="editor-field">
+            <input class="text-box single-line password" data-val="true" data-val-equalto="A senhas diferentes, favor redefini-las." data-val-equalto-other="*.Password" id="ConfirmPassword"  value="@parameterValue" name="ConfirmPassword"  type="password">
+            <span class="field-validation-valid" data-valmsg-for="ConfirmPassword" data-valmsg-replace="true"></span>
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.RoleId)
+        </div>
+        <div class="editor-field">
+            @Html.DropDownListFor(model => model.RoleId,new SelectList(ViewBag.roleref,"Id","Name"),String.Empty)
+            @Html.ValidationMessageFor(model => model.RoleId)
+        </div>
+
+        <p>
+            <input type="submit" value="Salvar" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Voltar", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

@@ -1,0 +1,43 @@
+﻿@model MineHControlReports.Models.menuRole
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Remover Permissão para Menu</h2>
+
+<h3>Tem certeza que deseja remover esta permissão?</h3>
+<fieldset>
+    <legend>menuRole</legend>
+
+     <div class="display-label">
+         @Html.DisplayNameFor(model => model.MenuId)
+    </div>
+    <div class="display-field">
+         @{
+             string parameterValue = Model.MenuGet();
+              }
+        @Html.DisplayFor(model => parameterValue)
+    </div>
+
+    <div class="display-label">
+
+         @Html.DisplayNameFor(model => model.RoleId)
+    </div>
+    <div class="display-field">
+         
+         @{
+             string parameterValue2 = Model.RoleGet();
+              }
+       
+        @Html.DisplayFor(model => parameterValue2)
+    </div>
+</fieldset>
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    <p>
+        <input type="submit" value="Remover" /> |
+        @Html.ActionLink("Voltar", "Index")
+    </p>
+}
