@@ -12,7 +12,9 @@ namespace MineHControlReports.Controllers
     {
         //
         // GET: /Kpis/
+        
         public kpisRepository rkpi = new kpisRepository();
+        [Authorize]
         public ActionResult Index()
         {
              
@@ -24,13 +26,14 @@ namespace MineHControlReports.Controllers
 
         //
         // GET: /Kpis/Create
-
+        [Authorize]
         public ActionResult Create()
         {
                 return View();            
         }
 
         [HttpPost]
+        [Authorize]
         [ValidateAntiForgeryToken]
         public ActionResult Create(kpis kpis)
         {
