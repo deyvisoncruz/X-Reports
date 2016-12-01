@@ -17,14 +17,7 @@ namespace MineHControlReports.Controllers
        
         public ActionResult Index()
         {
-            var list = new[]
-                {
-                new SelectListItem { Value = "2", Text = "Equipamento" },
-                new SelectListItem { Value = "1", Text = "Grupo de Equipamento" },
-                new SelectListItem { Value = "0", Text = "Tipo de Equipamento" },
-                };
-
-            ViewBag.Lista = new SelectList(list, "Value", "Text");
+           
             var vur = ur.GetAll();
             return View(vur);
         }
@@ -35,16 +28,6 @@ namespace MineHControlReports.Controllers
             IList<kpis> ilm = kr.GetAll().ToList();
             ViewBag.kpisref = ilm;
 
-            
-            var list = new[]
-                {
-                new SelectListItem { Value = "2", Text = "Equipamento" },
-                new SelectListItem { Value = "1", Text = "Grupo de Equipamento" },
-                new SelectListItem { Value = "0", Text = "Tipo de Equipamento" },
-                };
-
-            ViewBag.Lista = new SelectList(list, "Value", "Text");
-            
 
             return View();
         }

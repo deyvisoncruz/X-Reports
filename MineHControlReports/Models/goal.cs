@@ -50,29 +50,7 @@ namespace MineHControlReports.Models
         }
 
 
-        public virtual String TypeEntityGet()
-        {
-            string s;
-            switch (TypeEntity.ToString())
-            {
-                 
-                default:
-                    s = "ERRO";
-                    break;
-                case "0":
-                    s = "Tipo de Equipamento";
-                    break;
-                case "1":
-                    s = "Grupo de Equipamento";
-                    break;
-                case "2":
-                    s = "Equipamento";
-                    break;
-
-            }
-            return s;
-
-        }
+       
 
     }
 

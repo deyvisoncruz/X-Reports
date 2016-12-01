@@ -20,10 +20,19 @@ namespace MineReports.Controllers
         
         private List<subMenuList> subml = new List<subMenuList>();
 
-        public ActionResult Index()
+        public ActionResult Index(string Id = "metas", string type = "1")
         {
-            ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
-
+            if (Id != "metas")
+            {
+                if (type == "1")
+                    ViewBag.Report = "http://localhost:25584/Reports/ReportView.aspx?report=" + Id;
+                else
+                    ViewBag.Report = "http://localhost/MC/reports/" + Id + ".aspx"; ;
+            }
+            else
+            {
+                ViewBag.Report = "http://localhost:25584/Reports/ReportView.aspx?report=" + Id;
+            }
             return View();
         }
 

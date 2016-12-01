@@ -30,14 +30,7 @@
             @Html.ValidationMessageFor(model => model.StartDate)
         </div>
 
-        <div class="editor-label">
-            @Html.LabelFor(model => model.EndDate)
-        </div>
-        <div class="editor-field">
-            @Html.TextBoxFor(model => model.EndDate, new { @class = "datepicker", @type="date"})
-            @Html.ValidationMessageFor(model => model.EndDate)
-        </div>
-
+      
         <div class="editor-label">
             @Html.LabelFor(model => model.TypeEntity)
         </div>
